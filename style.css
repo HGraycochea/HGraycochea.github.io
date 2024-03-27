@@ -1,8 +1,15 @@
 body{
     margin: 0;
     color: red;
+    background-color: black;
 }
 
 p{
-    color: blue;
+    color: white;
+    text-align: center;
+}
+
+h1{ 
+    color: white;
+    text-align: center;
 }
